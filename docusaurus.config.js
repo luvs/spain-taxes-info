@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Путеводитель по налогам Испании',
-  tagline: 'Spain taxes are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -27,6 +26,7 @@ const config = {
     locales: ['ru'],
   },
 
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -35,9 +35,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          sidebarCollapsed: false,
         },
         blog: false,
         theme: {
@@ -51,20 +49,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Spain taxes guide',
+        title: 'Путеводитель по налогам Испании',
         logo: {
           alt: 'Spain',
           src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Guide',
-          },
           {
             href: 'https://github.com/luvs/spain-taxes-info',
             label: 'GitHub',

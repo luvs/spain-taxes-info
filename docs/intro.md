@@ -3,46 +3,40 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Про гайд
 
-Let's discover **Docusaurus in less than 5 minutes**.
+:::info
 
-## Getting Started
+Это **перевод** [гайда](https://www.fiscal-impuestos.com/guia-fiscal), если есть желание более детально рекомендуется прочитать его самостоятельно.
 
-Get started by **creating a new site**.
+:::
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+:::tip
 
-### What you'll need
+**Вопросы, пожелания можно писать в [телеграм](https://t.me/luvsandugar)**.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+:::
 
-## Generate a new site
+:::tip
 
-Generate a new Docusaurus site using the **classic template**.
+**Желающие сказать спасибо, могут купить мне кофе [тут](https://www.buymeacoffee.com/luvsandugar) :)** 
 
-The classic template will automatically be added to your project after you run the command:
+**Или так:** 
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- **btc**: bc1qayuqdapqghgzhc0380qh50x898xumwd6fvm8jx
+- **eth**: 0x2EA949F0499aC3893f8a1C8a1269c7Bb76420Fa9
+- **usdt** (eth): 0x2EA949F0499aC3893f8a1C8a1269c7Bb76420Fa9
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+:::
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Полезные ссылки
 
-## Start your site
+- [Сайт налоговой Испании](https://sede.agenciatributaria.gob.es/Sede/inicio.html)
+    - [Раздел посвященный НДФЛ](https://sede.agenciatributaria.gob.es/Sede/Renta.html) — ставки, вычеты, правила.
+- [Телеграм канал «Иберийские разборки»](https://t.me/desmontaje_iberico) — полезный канал с разбором испанских налогов.
+- [Чат номадов про налоги](https://t.me/taxesnomadspain)
 
-Run the development server:
+## Калькулятор
 
-```bash
-cd my-website
-npm run start
-```
+На базе этих знаний я делаю [табличку-калькулятор](https://docs.google.com/spreadsheets/d/1pfzP7qT1mZsBIkNCmQbLtFmF5BAyJdtyWonhC7wq-jM/edit?usp=sharing) , который позволит прикинуть ваши налоги в Испании.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
