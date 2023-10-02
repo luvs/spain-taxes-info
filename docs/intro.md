@@ -39,4 +39,3 @@ slug: /
 ## Калькулятор
 
 На базе этих знаний я делаю [табличку-калькулятор](https://docs.google.com/spreadsheets/d/1pfzP7qT1mZsBIkNCmQbLtFmF5BAyJdtyWonhC7wq-jM/edit?usp=sharing) , который позволит прикинуть ваши налоги в Испании.
-
