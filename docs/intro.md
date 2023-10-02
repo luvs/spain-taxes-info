@@ -3,11 +3,11 @@ sidebar_position: 1
 slug: /
 ---
 
-# Про гайд
+# Про сайт
 
 :::info
 
-Это **перевод** [гайда](https://www.fiscal-impuestos.com/guia-fiscal), если есть желание более детально рекомендуется прочитать его самостоятельно.
+Это **перевод** [гайда](https://www.fiscal-impuestos.com/guia-fiscal), плюс коллективные знания которые были получены учасниками [чата](https://t.me/taxesnomadspain).
 
 :::
 

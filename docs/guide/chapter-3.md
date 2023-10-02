@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 14
 ---
 
 # Глава 3. Подоходный налог с физических лиц (IRPF)
@@ -1553,4 +1553,4 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
 
 ## 15. Пример из практики
 
-## Приложение. Удержания и выплаты по НДФЛ в 2023 году
+## Приложение. Удержания и выплаты по НДФЛ в 2023 год

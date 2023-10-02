@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 11
 ---
 
 # Законодательная база
@@ -16,4 +16,5 @@ sidebar_position: 3
 
 - [Закон 35/2006 от 28 ноября о подоходном налоге с физических лиц (LIRPF)](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764)
   - [Королевский указ 439/2007 от 30 марта (RIRPF)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820)
+- [Королевский указ 5/2004 от 5 марта, утверждающий сводный текст Закона о подоходном налоге с нерезидентов](https://www.boe.es/buscar/act.php?id=BOE-A-2004-4527)
 

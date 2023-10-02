@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 12
 ---
 
 # Глава 1. Введение в налогообложение
