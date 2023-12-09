@@ -7,7 +7,7 @@ slug: /
 
 :::info ⠀
 
-Это **перевод** [гайда](https://www.fiscal-impuestos.com/guia-fiscal), плюс коллективные знания которые были получены учасниками [чата](https://t.me/taxesnomadspain).
+Это **перевод** [гайда](https://www.fiscal-impuestos.com/guia-fiscal), плюс коллективные знания которые были получены участниками [чата](https://t.me/taxesnomadspain).
 
 :::
 
